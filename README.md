@@ -59,13 +59,13 @@ real-estate-price-prediction/
 
 Running Locally
 
-	To install dependencies:
+To install dependencies:
 
-		pip install -r requirements.txt
+	pip install -r requirements.txt
 
-	To launch the Streamlit application:
+To launch the Streamlit application:
 
-		streamlit run src/app.py
+	streamlit run src/app.py
 
 Reproducibility
 
