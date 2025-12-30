@@ -41,18 +41,6 @@ Feature importance analysis identified listing price, square footage, and year b
 
 Project Structure
 
-real-estate-price-prediction/
-├── README.md
-├── requirements.txt
-├── data/
-│   └── home_listings.csv
-├── notebooks/
-│   └── model_training.ipynb
-├── model/
-│   └── random_forest_price_model.pkl
-├── src/
-│   └── app.py
-
 - notebooks/ contains the full data preparation, analysis, and model training pipeline
 - model/ contains the trained Random Forest model used by the application
 - src/app.py provides an interactive Streamlit application for generating price predictions and visual insights
